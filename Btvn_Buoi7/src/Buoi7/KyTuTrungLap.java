@@ -5,12 +5,10 @@ import java.util.Scanner;
 public class KyTuTrungLap {
 	public static void main(String[] args) {
 		String str;
-
 		System.out.println("Nhap chuoi");
 		Scanner scanner = new Scanner(System.in);
 		str = scanner.nextLine();
 		scanner.close();
-
 	}
 
 	public static char TimKyTu(String str) {

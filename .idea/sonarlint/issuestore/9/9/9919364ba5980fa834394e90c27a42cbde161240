@@ -1,0 +1,27 @@
+
+l	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÏë
+K	java:S106"9Replace this use of System.out or System.err by a logger.(îÿ½
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ºƒşÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ùñ•
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Úıõ­ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(òìïØ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(“¨ªÈ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¾ŠÂ¥ùÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¿Æî‡
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Úıõ­ûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(­„ÛÊúÿÿÿÿ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ö˜Ö”úÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ö˜Ö”úÿÿÿÿ
+e
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(£”µ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(£”µ
+j
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¤¸‘ƒøÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸‘ƒøÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‘òñåÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(“–ğüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(“–ğüÿÿÿÿ
+f	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢­¸¹ûÿÿÿÿ
+a	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùóúş
+f	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òıìàşÿÿÿÿ
